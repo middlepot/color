@@ -2,4 +2,5 @@
   \
  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌꒰ ‌ 𝑚𝑦 𝑐𝑜𝑙𝑜𝑟 𝑝𝑎𝑐𝑘 : ‌ color.pooftie.me ‌ ꒱\
   \
-<img width="400" height="230" src="https://middlepot.com/img/cute.jpg">
+<a href="https://color.pooftie.me"><img width="400" height="230" src="https://middlepot.com/img/cute.jpg"></a>
+
